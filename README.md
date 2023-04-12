@@ -8,9 +8,9 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1JPl2skbmPPMQW0S0vpny8A?pwd=mijx) 提取码: mijx
 
-[iOS system symbol files(16.0-16.3.1)](https://drive.google.com/drive/folders/13BvwiFUCeBK5IwjQOEhrdSYX_e3LnA5M?usp=sharing)
+[iOS system symbol files(16.0-16.4.1)](https://drive.google.com/drive/folders/13BvwiFUCeBK5IwjQOEhrdSYX_e3LnA5M?usp=sharing)
 
-[iOS system symbol files(15.6.1-15.7.3)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
+[iOS system symbol files(15.6.1-15.7.5)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
 
 [iOS system symbol files(15.0.0-15.6)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
@@ -18,12 +18,14 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(13.0.0-13.7.0)](https://drive.google.com/drive/folders/1X_q_JiaFGVaappi8gaexQDzJCH9SwdSw?usp=sharing)
 
-[iOS system symbol files(12.0.0-12.5.6)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
+[iOS system symbol files(12.0.0-12.5.7)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
 ### 16.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
+| 16.4.1 (20E252) |      arm64 arm64e      |                                       |
+|  16.4 (20E247)  |      arm64 arm64e      |                                       |
 | 16.3.1 (20D67)  |      arm64 arm64e      |                                       |
 |  16.3 (20D47)   |      arm64 arm64e      |                                       |
 |  16.2 (20C65)   |      arm64 arm64e      |                                       |
@@ -39,8 +41,10 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
-| 15.7.3 (19H307) |      arm64 arm64e      |                                               |
-| 15.7.2 (19H218) |      arm64 arm64e      |                                               |
+| 15.7.5 (19H332) |         arm64          |                                               |
+| 15.7.4 (19H321) |         arm64          |                                               |
+| 15.7.3 (19H307) |         arm64          |                                               |
+| 15.7.2 (19H218) |         arm64          |                                               |
 | 15.7.1 (19H117) |      arm64 arm64e      |                                               |
 |  15.7 (19H12)   |      arm64 arm64e      |                                               |
 | 15.6.1 (19G82)  |      arm64 arm64e      |                                               |
@@ -106,6 +110,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 12.x Symbols List
 |   OS Version    | Collected Architecture |                Description                |
 | :-------------: | :--------------------: | :---------------------------------------: |
+| 12.5.7 (16H81)  |         arm64          |                                           |
 | 12.5.6 (16H71)  |         arm64          |                                           |
 | 12.5.5 (16H62)  |         arm64          |                                           |
 | 12.5.4 (16H50)  |         arm64          |                                           |
@@ -126,7 +131,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 12.3.2 (16F250) |         arm64          |            iPhone 8 Plus only             |
 | 12.3.1 (16F203) |      arm64 arm64e      |                                           |
 |  12.3 (16F156)  |      arm64 arm64e      |                                           |
-|  12.2 (16E227)  |      arm64 arm64e      |                                           |
+|  12.2 (16E227)  |      arm64 arm64e      |                    111                    |
 | 12.1.4 (16D57)  |      arm64 arm64e      |                                           |
 | 12.1.3 (16D40)  |         arm64e         | iPhone XR / XS / XS Max / iPad Pro 3 only |
 | 12.1.3 (16D39)  |         arm64          |                                           |
